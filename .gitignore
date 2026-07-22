@@ -1,0 +1,9 @@
+*.log
+*.tmp
+build/
+dist/
+.cache/
+.idea/
+.vscode/
+node_modules/
+__pycache__/
